@@ -1,9 +1,9 @@
 import React from 'react'
 
-const buyCredit = () => {
+const BuyCredit = () => {
   return (
-    <div>buyCredit</div>
+    <div>BuyCredit</div>
   )
 }
 
-export default buyCredit
+export default BuyCredit
